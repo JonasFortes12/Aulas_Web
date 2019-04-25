@@ -1,0 +1,38 @@
+html{
+    background-color: #2F4F4F;
+}
+img#img{
+    height: 400px;
+    width: 350px;
+    display: block;
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 140px;
+    border: solid 1px darkslategray;
+}
+img#img:hover{
+    border: solid 2px darkslategray;
+    opacity: .6;
+    box-shadow: 3px 3px 3px;
+}
+h1#nome{
+    margin-top: 10px;
+    margin-left: 50px;
+    color: black;
+    font-size: 60px;
+}
+div#desc{
+    background-color:#87CEEB;
+    height: 400px;
+    width: 740px;
+    margin-top: -20px;
+    margin-left: 500px;
+}
+div#master{
+    margin-top: 100px;
+    margin-left: 0px;
+}
+div#desc h3#sob{
+    color: black;
+    margin-left: 50px;
+}
