@@ -36,11 +36,17 @@ div#desc h3#sob{
     color: black;
     margin-left: 50px;
 }
-a#link{
-    
-    margin-top: 2000px;
-    margin-left: 300px;
+footer{
+    width: 600px;
+    background-color: red;
+    margin-top: 20px;
+    margin-left: 550px;
     font-size: 20px;
     color: darkslateblue;
+}
+a#link{
+}
 
+@font-face{
+    font-family: 'Merriweather', serif;
 }
