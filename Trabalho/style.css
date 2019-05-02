@@ -1,5 +1,6 @@
 html{
     background-color: #2F4F4F;
+    font-family: 'Courier New', Courier, monospace;
 }
 img#img{
     height: 400px;
@@ -19,7 +20,7 @@ h1#nome{
     margin-top: 10px;
     margin-left: 50px;
     color: black;
-    font-size: 60px;
+    font-size: 50px;
 }
 div#desc{
     background-color:#87CEEB;
@@ -27,6 +28,7 @@ div#desc{
     width: 740px;
     margin-top: -20px;
     margin-left: 500px;
+    font-size: 17px;
 }
 div#master{
     margin-top: 100px;
@@ -36,17 +38,16 @@ div#desc h3#sob{
     color: black;
     margin-left: 50px;
 }
-footer{
+footer#rpe{
     width: 600px;
-    background-color: red;
-    margin-top: 20px;
+    margin-top: -130px;
     margin-left: 550px;
     font-size: 20px;
-    color: darkslateblue;
+    color:black;
 }
 a#link{
 }
-
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text');
 @font-face{
-    font-family: 'Merriweather', serif;
+    font-family: 'Crimson Text', serif;
 }
