@@ -1,0 +1,76 @@
+
+div#desc, img#img{
+    border-radius: 4%;
+}
+html{
+    background-color:#2F4F4F;
+    font-family: 'Courier New', Courier, monospace;
+}
+img#img{
+    height: 400px;
+    width: 350px;
+    display: block;
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 10px;
+    border: solid 1px darkslategray;
+
+}
+img#img:hover{
+    border: solid 2px darkslategray;
+    opacity: .6;
+    box-shadow: 3px 3px 3px;
+}
+h1#nome{
+    margin-top: 10px;
+    margin-left: 50px;
+    color: black;
+    font-size: 50px;
+    
+} 
+div#desc{
+    background-color:#87CEEB;
+    height: 700px;
+    width: 740px;
+    margin-top: -20px;
+    margin-left: 370px;
+    font-size: 17px;
+}
+div#master{
+    margin-top: 100px;
+    margin-left: 0px;
+}
+div#desc h3#sob{
+    color: black;
+    margin-left: 50px;
+}
+footer#rpe{
+    width: 600px;
+    margin-top: -130px;
+    margin-left: 430px;
+    font-size: 20px;
+    color:black;
+}
+ul.dots li{
+    font:italic;
+    font-size: 20px;
+    margin-left: 30px;
+    color: black;
+}
+h1.title{
+    margin-left: 30px;
+}
+section{
+    border-bottom: solid black 1px;
+}
+img#insta,img#face{
+    height: 50px;
+    width: 50px;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text');
+@font-face{
+    font-family: 'Crimson Text', serif;
+}
+
+
