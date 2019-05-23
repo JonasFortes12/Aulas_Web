@@ -1,0 +1,40 @@
+body{
+    font-size: 1.5em;
+    margin: 0;
+}
+nav{
+    display: block;
+    width: 100%;
+    height: 55px;
+    background-color: orange;
+    margin-top: 0px;
+    text-align: center;
+    /* position: fixed; */
+}
+
+section#sec1, #sec2{
+    display: block;
+    display: inline-block;
+    margin-top: 30px; 
+    margin-left: 40px;
+    border: 5px solid green;
+    width: 610px;
+    height: 400px;
+}
+
+footer{
+    margin-top: 20px;
+    height: 70px;
+    background-color: purple;
+    color: white;
+    text-align: center;
+}
+
+/* section#sec2{
+    display: block;
+    display: inline-block;
+    margin: 10px;
+    border: 5px solid green;
+    width: 650px;
+    height: 400px; 
+} */
