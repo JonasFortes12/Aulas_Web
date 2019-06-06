@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    width: 960px;
+    margin: 0;
+    text-align: center;
+    
+}
+.topo, .direita, .esquerda, .centro{
+    display: block;
+    background-color: chartreuse;
+    margin: 10px;
+}
+.direita, .esquerda, .centro{
+    height: 500px;
+    display: inline-block;
+    margin:
+}
+.topo{
+    display: block;
+    height: 80px;
+    width: 960px;
+    background-color: blueviolet;
+}
+ .esquerda{
+     width: 520px;
+ }
+ .centro{
+     width: 200px;
+ }
+ .esquerda{
+     width: 200px;
+ }

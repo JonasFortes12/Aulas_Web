@@ -9,7 +9,7 @@ body{
 }
 
 div{
-    background-color: aqua;
+    background-color:coral;
 }
 
 .topo{
@@ -37,6 +37,10 @@ div{
 .esquerda, .direita, .meio{
     display: inline-block;
     vertical-align: top;
+}
+img{
+    max-width: 100%;
+    max-height: 100%;
 }
 
 
