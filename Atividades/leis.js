@@ -24,12 +24,14 @@ function aparece(){
 
 // -----------------------------------------------------------------------
 document.getElementById('btmagico').addEventListener('click', function(){
-    some();
-    alert('ola');
+    const image = document.getElementById("img");
+
+    if(image.style.display == "none"){
+        image.style.display = "block"
+    }else{
+        image.style.display = "none";
+    }
 });
-document.getElementById('btmagico2').addEventListener('click', function(){
-    some();
-    alert('ola');   
-});
+
 
 
