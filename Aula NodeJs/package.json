@@ -1,0 +1,12 @@
+{
+  "name": "aula-nodejs",
+  "version": "1.0.0",
+  "description": "Aula de Jesiel sobre Node bb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonas Fortes",
+  "license": "ISC"
+}
+
