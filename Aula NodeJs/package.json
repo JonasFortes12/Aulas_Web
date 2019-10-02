@@ -4,9 +4,11 @@
   "description": "Aula de Jesiel sobre Node bb",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node servidor.js"
   },
   "author": "Jonas Fortes",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
-
